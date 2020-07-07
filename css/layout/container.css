@@ -1,5 +1,6 @@
 .wrapper{
     background-color:#faeee7;
+    border: 5px solid #f96262;
     display: grid;
     grid-template-areas: 'nav nav nav nav'
                          'header header header header'
