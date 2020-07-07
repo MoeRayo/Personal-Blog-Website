@@ -1,0 +1,9 @@
+.wrapper{
+    background-color:#faeee7;
+    display: grid;
+    grid-template-areas: 'nav nav nav nav'
+                         'header header header header'
+                         'main main main main'
+                         'email email email email'
+                         'footer footer footer footer';
+}
