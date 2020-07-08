@@ -8,3 +8,33 @@
                          'email email email email'
                          'footer footer footer footer';
 }
+
+
+.subscribe-form{
+    background-color: #f96262;
+    width: 30%;
+    grid-area: email;
+    margin: 3rem auto;
+    border-radius: 10px;
+    padding: 1rem;
+}
+
+.subscribe-form--head{
+    text-align: center;
+}
+
+.subscribe-form--label,.subscribe-form--input{
+    display: block;
+}
+
+.subscribe-form--label{
+    margin-top: 1rem;
+}
+.subscribe-form--input{
+    background-color: #f96262;
+    padding: .5rem 0 .1rem;
+    border: none;
+    border-bottom: 2px solid #faeee7;
+    width: 100%;
+    font-size: 1rem;
+}

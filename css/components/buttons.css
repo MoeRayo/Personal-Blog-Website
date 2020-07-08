@@ -1,13 +1,15 @@
-.cards-button{
+.button{
+    display: block;
+    margin: 1rem auto;
+    font-size: 1rem;
     background-color: #413a3a;
     color: #ffffff;
-    padding: .3rem 1rem;
+    padding: .5rem 1rem;
     border: 1px solid #413a3a;
     border-radius: 5px;
     cursor: pointer;
 }
 
-
-.cards-button:hover{
+.button:hover{
     background-color: #413a3aa9;
 }
