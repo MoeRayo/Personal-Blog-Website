@@ -4,7 +4,7 @@
     display: grid;
     grid-template-areas: 'nav nav nav nav'
                          'header header header header'
-                         'main main main main'
+                         'cards cards cards cards'
                          'email email email email'
                          'footer footer footer footer';
 }

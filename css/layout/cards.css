@@ -1,0 +1,43 @@
+.cards-main-wrapper{
+    grid-area: cards;
+    width: 80%;
+    margin: 0 auto; 
+}
+
+
+.cards-wrapper-head{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 2rem;
+}
+.cards{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    text-align: center;
+}
+
+
+.blog-cards{
+    box-shadow: 1px 1px 8px #f96262;
+    padding: 1.5rem;
+    flex-basis: 25%;
+    border-radius: 8px;
+    margin: 2rem 1.5rem;
+}
+
+
+.card-image{
+    border: 3px solid #413a3a;
+}
+
+
+.cards-caption{
+    margin: 1rem 0;
+}
+
+
+.cards-caption-head{
+    padding-bottom: .5rem;
+}
+
