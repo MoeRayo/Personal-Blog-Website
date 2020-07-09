@@ -1,7 +1,15 @@
 *,
 *::before,
-*::after{
+*::after {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+.blog-wrapper,
+.post-wrapper {
+    background-color:#faeee7;
+    border: 5px solid #f96262;
+    display: grid;
+    grid-gap: 20px;
 }

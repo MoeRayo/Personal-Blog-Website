@@ -1,4 +1,4 @@
-.nav{
+.nav {
     grid-area: nav;
     display: flex;
     flex-flow: row;
@@ -9,29 +9,29 @@
     align-items: center;
 }
 
-
-.nav-logo-link{
+.nav-logo-link {
     font-size: 2.5rem;
     font-family: cursive;
     color: #000000;
     text-decoration: none;
 }
 
-
-.nav-list{
+.nav-list {
     list-style: none;
 }
 
-
-.nav-items{
+.nav-items {
     display: inline-block;
 }
 
-
-.nav-links{
+.nav-links {
     font-size: 1.3rem;
     display: inline-block;
     padding-left: 4rem;
     text-decoration: none;
-
+    font-family: 'Raleway', sans-serif;
 }
+
+/* font-family: 'Open Sans', sans-serif;*/
+
+/*font-family: 'Raleway', sans-serif; */
