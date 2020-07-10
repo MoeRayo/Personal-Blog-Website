@@ -2,7 +2,7 @@
     grid-area: header;
     background:linear-gradient(to top right, #f8bfbf80,#ee8c8cb4), url(/images/Snapchat-121530559.jpg) no-repeat;
     background-size: cover;
-    background-position: 0 -200px;
+    background-position: 0 -235px;
     height: 30vh;
     width: 100%;
     margin: 3rem auto;
@@ -19,4 +19,8 @@
 .header-bio--paragraph {
     font-size: 1.5rem;
     font-family: 'Open Sans', sans-serif;
+}
+
+.header-img {
+    display: none;
 }
