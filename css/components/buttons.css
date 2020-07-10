@@ -1,4 +1,4 @@
-.button{
+.button {
     display: block;
     margin: 1rem auto;
     font-size: 1rem;
@@ -10,6 +10,11 @@
     cursor: pointer;
 }
 
-.button:hover{
+.button:hover {
     background-color: #413a3aa9;
+}
+
+.button-link {
+    color: #fff;
+    text-decoration: none;
 }
