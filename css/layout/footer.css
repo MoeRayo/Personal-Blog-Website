@@ -1,0 +1,16 @@
+.footer {
+    grid-area: footer;
+    text-align: center;
+    padding: 0.8rem;
+    background-color: #ce9797;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.footer-para{
+    color: #fff;
+}
+
+.footer-para--link {
+    text-decoration: none;
+    color: #fff;
+}

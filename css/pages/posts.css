@@ -14,7 +14,6 @@
     word-spacing: 0.5rem;
     line-height: 1.8rem;
     margin-right: 2rem;
-    /* background-color: red; */
 }
 
 .main-blog--head {
@@ -46,6 +45,13 @@
 
 .sidebar {
     flex-basis: 30%;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.sidebar-recent,
+.sidebar-author {
+    margin-bottom: 3rem;
 }
 
 .sidebar-head,
@@ -57,13 +63,30 @@
 .sidebar-head {
     font-family: 'Raleway', sans-serif;
 }
-.sidebar-para {
-   
-}
 
 .sidebar-link {
     color: #413a3a;
-    font-family: 'Open Sans', sans-serif;
     text-decoration: none;
+}
 
+.sidebar-author--para {
+    padding: 0.8rem 0;
+    line-height: 1.5rem;
+    font-size: 0.9rem;
+}
+
+.sidebar-author--para__info {
+    color:#ce9797;
+    font-size: 0.8rem;
+}
+
+.sidebar-author--avatar {
+    border: 2px solid #ce9797;
+}
+
+.fab {
+    display: inline-block;
+    margin: 1rem 0.6rem;
+    color: #ce9797;
+    font-size: 1.8rem;
 }
