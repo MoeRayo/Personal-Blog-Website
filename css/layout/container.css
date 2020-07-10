@@ -44,8 +44,12 @@
     border-bottom: 2px solid #faeee7;
     width: 100%;
     font-size: 1rem;
-    color: white;
 }
+
+.subscribe-form--input::placeholder{
+    color: #fff;
+}
+
 .subscribe-form--input:focus{
     cursor: pointer;
 }
