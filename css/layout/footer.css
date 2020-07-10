@@ -6,11 +6,11 @@
     font-family: 'Open Sans', sans-serif;
 }
 
-.footer-para{
-    color: #fff;
+.footer-para {
+    color: #000;
 }
 
 .footer-para--link {
     text-decoration: none;
-    color: #fff;
+    color:  #000;
 }

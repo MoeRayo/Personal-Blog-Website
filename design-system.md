@@ -17,10 +17,17 @@ The designs were created to the following widths:
 ### Neutral
 
 - Dark Grayish Red: #413a3a
+- white - #fff
+- black - #000
+
+### Others
+
+- hover state: #413a3aa9
+- blockquotes: #ce979780;
+
 ### Gradients
  
 - Linear, to top right, from #f8bfbf80 to #ee8c8cb4
-- Linear, 135deg, from hsl(0, 80%, 86%), to hsl(0, 74%, 74%)
 
 ## Typography
 

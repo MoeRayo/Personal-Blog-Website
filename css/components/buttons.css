@@ -14,6 +14,12 @@
     background-color: #413a3aa9;
 }
 
+.button:focus{
+    background-color: #413a3aa9;
+    cursor: pointer;
+
+}
+
 .button-link {
     color: #fff;
     text-decoration: none;
